@@ -1,6 +1,7 @@
-DRC Rules Export File for PCB: D:\Altium_wokrspace\Sub1GHz_wireless_system\node_pcb.PcbDoc
+DRC Rules Export File for PCB: C:\Workspaces\Altium_Workspace\Sub1GHz_wireless_system\node_pcb.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=9.84
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_RF_CC430|Scope=Board|Minimum=25.59
 RuleKind=Clearance|RuleName=Clearance_polygon|Scope=Board|Minimum=19.69
