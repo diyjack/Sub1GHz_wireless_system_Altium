@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Sub1GHz_wireless_system.PrjPcb]
+   Generated File[node_pcb.TXT]
+   Generated File[node_pcb.DRL]
+   Generated File[node_pcb.LDP]
+   Generated File[node_pcb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 14:01:14 On 2013.05.06.
